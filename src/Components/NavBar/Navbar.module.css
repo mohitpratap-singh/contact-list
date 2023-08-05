@@ -1,0 +1,26 @@
+/* Styling for the nav-bar */
+nav{
+    background-color: rgb(39, 7, 200);
+    /* margin-top: -3vh; */
+    height: 7vh;
+    align-items: center;
+    padding-left: 10px;
+    display: flex;
+    justify-content: left;
+    box-shadow: 0px 20px 20px 0px rgb(48, 47, 118);
+}
+/* Styling for the heading */
+h2{
+    color: white;
+    border-radius: 20px;
+}
+/* few of the styling of the h2 only,  */
+.heading{
+    font-weight: 1000;
+}
+.heading:hover{
+    color: rgba(255, 9, 9, 0.712);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid white;
+    box-shadow: 0px 10px 10px 5px rgb(0, 0, 0);
+}
